@@ -1,6 +1,7 @@
 # UdemyAngularEasytask
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.2.3.
+This project is the opening one in Maximillian Schwarzmuller's "Angular - The Complete Guide (2025)" on [Udemy](https://www.udemy.com/course/the-complete-guide-to-angular-2/).
 
 ## Development server
 
